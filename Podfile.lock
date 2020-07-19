@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (4.8.2)
+  - ALLoadingView (1.1.5)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - EMAlertController (1.0.2)
+  - Fabric (1.9.0)
+  - PasswordTextField (1.2.0)
+  - PromiseKit (4.5.2):
+    - PromiseKit/Foundation (= 4.5.2)
+    - PromiseKit/QuartzCore (= 4.5.2)
+    - PromiseKit/UIKit (= 4.5.2)
+  - PromiseKit/CorePromise (4.5.2)
+  - PromiseKit/Foundation (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.5.2):
+    - PromiseKit/CorePromise
+  - RaisePlaceholder (1.0.3)
+  - ReachabilitySwift (4.3.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyNotifications (0.5.3)
+  - SwiftyPickerPopover (6.6.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - ALLoadingView
+  - Crashlytics
+  - EMAlertController
+  - Fabric
+  - PasswordTextField
+  - PromiseKit (~> 4.0)
+  - RaisePlaceholder
+  - ReachabilitySwift
+  - SVProgressHUD
+  - SwiftyNotifications (~> 0.5.3)
+  - SwiftyPickerPopover
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ALLoadingView
+    - Crashlytics
+    - EMAlertController
+    - Fabric
+    - PasswordTextField
+    - PromiseKit
+    - RaisePlaceholder
+    - ReachabilitySwift
+    - SVProgressHUD
+    - SwiftyNotifications
+    - SwiftyPickerPopover
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  ALLoadingView: 5f3a5e73402d3ec178dae51ebdb39c1d64c0a87b
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  EMAlertController: 471e4630309e5ae843ef71f502d6b58525b22c60
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  PasswordTextField: 2548de43f150fc90a014da47b0d97e31aada4b94
+  PromiseKit: 743e497a5f505a470d3bbbf4ce0663c1268af0a4
+  RaisePlaceholder: e77c8565f556e25659bdf1b9a77647a952b8cb70
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyNotifications: 4baa904c25b4d647a93155a7a64652eb41732e01
+  SwiftyPickerPopover: f2975fd0233d04c0a8f8d52d09b6f24b882de6fb
+
+PODFILE CHECKSUM: 75f18d3517dc67243e85f8005df10a064b9307dc
+
+COCOAPODS: 1.6.1
